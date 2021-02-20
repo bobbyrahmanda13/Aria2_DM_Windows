@@ -9,4 +9,4 @@ ECHO ==============================================================
 ECHO Silahkan Tekan Enter Jika Sudah Diganti
 PAUSE >>NULL
 notepad C:\Users\Rahman\aria2\linkdownload.txt
-aria2c -s16 -x16 -i linkdownload.txt -d C:\Users\Rahman\Downloads
+aria2c -s 16 -x 16 -i linkdownload.txt -d C:\Users\Rahman\Downloads
